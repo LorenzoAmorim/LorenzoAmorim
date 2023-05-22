@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LorenzoAmorim&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/LorenzoAmorim/github-readme-stats#gh-light-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoAmorim&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/LorenzoAmorim/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoAmorim&layout=donut&theme=default#gh-light-mode-only)](https://github.com/LorenzoAmorim/github-readme-stats#gh-light-mode-only)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Macacudo&theme=dark)](https://github.com/LorenzoAmorim/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoamorim&theme=dark)](https://github.com/LorenzoAmorim/github-readme-stats)
 
 
 
