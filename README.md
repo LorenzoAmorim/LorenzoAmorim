@@ -8,6 +8,7 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoamorim&theme=dark)](https://github.com/LorenzoAmorim/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/18695755-5a18-42cc-90b1-d5901aaf6990.svg)](https://wakatime.com/@18695755-5a18-42cc-90b1-d5901aaf6990)
 
 
 <div style="display: inline_block"><br>
