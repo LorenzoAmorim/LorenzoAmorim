@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ### Lorenzo Amorim
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LorenzoAmorim&rank_icon=github&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/LorenzoAmorim/github-readme-stats#gh-dark-mode-only)
