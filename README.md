@@ -12,6 +12,8 @@
 <img align="center" alt="Lo-spring" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <img align="center" alt="Lo-sf" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
 <img align="center" alt="Lo-js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+<img align="center" alt="Lo-js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
+
 
 <PARA ESCONDER ALGO NO STATUS>
  <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoAmorim&hide=contribs,prs)>
